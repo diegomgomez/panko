@@ -1,2 +1,2 @@
-# panko
-Panko app
+# Panko
+Repo for the Panko Android app
